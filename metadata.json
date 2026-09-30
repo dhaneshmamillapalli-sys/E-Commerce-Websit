@@ -1,0 +1,6 @@
+{
+  "name": "ApexMart E-Commerce Platform",
+  "description": "Production-grade MERN Stack E-Commerce Platform with Admin Dashboard, Analytics, JWT Authentication, Product Catalog with Filtering, Wishlist, Cart, Coupons, Order Management, Stripe Payments, and Dark Mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
